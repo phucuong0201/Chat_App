@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="6695318105266" >
+
+    <task
+        name="javac"
+        duration="702" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="383" />
+    <task
+        name="verifier"
+        duration="160" />
+
+    <artifact
+        location="C:\Users\Dong\Desktop\TabLayoutWithViewPager\Devpro_Viewpager\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="6695318105266" >
+        <artifact
+            location="C:\Users\Dong\Desktop\TabLayoutWithViewPager\Devpro_Viewpager\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
