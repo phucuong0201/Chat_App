@@ -1,31 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="19"
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
     density="xxhdpi"
-    format="7"
-    timestamp="6695318105266" >
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="2846989293550"
+    token="-7648173946569656542"
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="702" />
+        duration="120" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="383" />
+        duration="41" />
     <task
         name="verifier"
-        duration="160" />
+        duration="1" />
 
     <artifact
-        location="C:\Users\Dong\Desktop\TabLayoutWithViewPager\Devpro_Viewpager\app\build\outputs\apk\app-debug.apk"
+        location="/home/sora/Downloads/Devpro_Viewpager/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="6695318105266" >
+    <build
+        timestamp="2846989293550"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="C:\Users\Dong\Desktop\TabLayoutWithViewPager\Devpro_Viewpager\app\build\outputs\apk\app-debug.apk"
+            location="/home/sora/Downloads/Devpro_Viewpager/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

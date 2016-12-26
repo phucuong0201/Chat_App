@@ -22,7 +22,10 @@ import java.util.Set;
  * Created by sora on 26/12/2016.
  */
 
-public class DeviceListActivity extends Activity{
+public class DeviceListActivity extends Activity {
+    /**
+     * Tag for Log
+     */
     private static final String TAG = "DeviceListActivity";
 
     /**
@@ -119,7 +122,6 @@ public class DeviceListActivity extends Activity{
      * Start device discover with the BluetoothAdapter
      */
     private void doDiscovery() {
-//        Log.d(TAG, "doDiscovery()");
 
         // Indicate scanning in the title
         setProgressBarIndeterminateVisibility(true);
@@ -188,4 +190,5 @@ public class DeviceListActivity extends Activity{
             }
         }
     };
+
 }

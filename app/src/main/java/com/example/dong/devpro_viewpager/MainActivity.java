@@ -13,7 +13,7 @@ ViewPager pager;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        getSupportActionBar().hide();
+        getSupportActionBar().show();
         pager= (ViewPager) findViewById(R.id.view_pager);
         tabLayout= (TabLayout) findViewById(R.id.tab_layout);
 
