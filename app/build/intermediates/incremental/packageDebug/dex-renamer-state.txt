@@ -1,7 +1,4 @@
-#Tue Dec 27 00:23:46 ICT 2016
-base.0=/home/sora/Downloads/Devpro_Viewpager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c63d85eaa5fddc15c3443481c73f738fc926d22
-renamed.1=classes2.dex
+#Tue Dec 27 10:49:00 ICT 2016
+base.0=/home/sora/Downloads/Devpro_Viewpager/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.1=/home/sora/Downloads/Devpro_Viewpager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f0b1f4e749e4dc484aea4ad3827695a85c95f32/classes.dex
-base.1=/home/sora/Downloads/Devpro_Viewpager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f0b1f4e749e4dc484aea4ad3827695a85c95f32
-file.0=/home/sora/Downloads/Devpro_Viewpager/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8c63d85eaa5fddc15c3443481c73f738fc926d22/classes.dex
+file.0=/home/sora/Downloads/Devpro_Viewpager/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

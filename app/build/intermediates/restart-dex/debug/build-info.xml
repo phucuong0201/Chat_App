@@ -5,29 +5,29 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2846989293550"
+    timestamp="1496449896111"
     token="-7648173946569656542"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="120" />
+        duration="248" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="41" />
+        duration="123" />
     <task
         name="verifier"
-        duration="1" />
+        duration="10" />
 
     <artifact
         location="/home/sora/Downloads/Devpro_Viewpager/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="2846989293550"
+        timestamp="1496449896111"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/sora/Downloads/Devpro_Viewpager/app/build/outputs/apk/app-debug.apk"
